@@ -1,5 +1,5 @@
 ## Intro
-This repo holds the Kali Linux GRUB theme ripped straight from the files!
+This repo holds the Artix Linux GRUB theme ripped straight from the files!
 ## Sources
 ```/usr/share/grub/themes/artix``` for the theme files.
 ## How to Install?
